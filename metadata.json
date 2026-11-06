@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Arena: IPL Auction & Tournament Simulator",
+  "description": "Multiplayer IPL cricket management game featuring real-time mega auction, AI franchises, squad building, realistic ball-by-ball T20 match engine, and complete tournament league stage and playoffs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
